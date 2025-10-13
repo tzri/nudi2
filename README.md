@@ -11,4 +11,15 @@
 **nudi2 is built for future – and the future is now!**  
 A theme with nothing extra, and nothing to hide.  
 
+Check out [Live Preview](https://mikemoisio.ai/)  
 [Download nudi² WordPress theme](https://github.com/tzri/nudi2/archive/refs/heads/main.zip) for free – now.  
+
+## Author
+
+**Mike Moisio**  
+Life & Business Coach  
+AI Systems & Clarity Coach  
+[https://mikemoisio.com](https://mikemoisio.com)  
+📧 mike@mikemoisio.com  
+📍 Finland  
+

@@ -1,8 +1,27 @@
 <!DOCTYPE html>
-<html <?php language_attributes(); ?>>
+<?php if (is_single()): ?>
+<html <?php language_attributes(); ?> itemscope itemtype="https://schema.org/Article">
+<?php else: ?>
+<html <?php language_attributes(); ?> itemscope itemtype="https://schema.org/WebPage">
+<?php endif; ?>
 <head>
     <meta charset="<?php bloginfo("charset"); ?>">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <?php wp_head(); ?>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "<?php bloginfo("name"); ?>",
+  "url": "<?php echo home_url(); ?>",
+  "description": "<?php bloginfo("description"); ?>",
+  "creator": {
+    "@type": "Person",
+    "name": "Mike Moisio",
+    "url": "https://mikemoisio.ai"
+  }
+}
+</script>    
 </head>
 <body <?php body_class(); ?>>
 

@@ -3,19 +3,20 @@ Theme Name: nudi2
 Theme URI: https://mikemoisio.ai/nudi2/
 Author: Mike Moisio
 Author URI: https://mikemoisio.com
-Description: A no-CSS WordPress theme for the AI-first web. No fluff, just clean structure.
-Version: 0.01
+Description: Ultra-miminal WordPress theme for the AI-first web.
+Version: 0.02
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
-Tags: minimal, developer, starter, ai-ready, accessibility-ready
+Tags: minimal, developer, starter, ai-ready, seo, geo, aeo, accessibility-ready
 
 Text Domain: nudi2
 */
 
 
 main {
-  max-width: 860px;
+  max-width: 680px;
   padding-bottom: 1em;
+  line-height: 1.49;
 }
 
 h1 {

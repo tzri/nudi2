@@ -5,8 +5,12 @@
     if (have_posts()) {
         while (have_posts()) {
             the_post();
-            the_title('<h1>', '</h1>');
+            echo '<article itemscope itemtype="https://schema.org/Article">';
+            the_title('<h1 itemprop="headline">', '</h1>');
+            echo '<div itemprop="articleBody">';
             the_content();
+            echo '</div>';
+            echo '</article>';
         }
     } else {
         echo '<p>No content found.</p>';
