@@ -19,7 +19,6 @@ Check out [Live Preview](https://mikemoisio.ai/)
 **Mike Moisio**  
 Life & Business Coach  
 AI Systems & Clarity Coach  
-[https://mikemoisio.com](https://mikemoisio.com)  
-📧 mike@mikemoisio.com  
-📍 Finland  
+[https://mikemoisio.ai](https://mikemoisio.ai)  
+
 
