@@ -14,6 +14,10 @@ A theme with nothing extra, and nothing to hide.
 Check out [Live Preview](https://mikemoisio.ai/)  
 [Download nudi² WordPress theme](https://github.com/tzri/nudi2/archive/refs/heads/main.zip) for free – now.  
 
+## Recommendation
+
+Don't leave this page **without taking advantage** of my **free and open-source** [Open WordPress SEO Plugin](https://github.com/tzri/open-wordpress-seo) when tuning up your [WordPress](https://wordpress.org/) website optimization.
+
 ## Author
 
 **Mike Moisio**  
